@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+.vscode
+*.log
+/_playwright-report
+/_playwright-results
+/lib
+/node_modules
+/themes
+
+# exceptions
+!.gitkeep
