@@ -10,3 +10,5 @@
 
 # exceptions
 !.gitkeep
+**/node_modules
+**/side_bar_temp.md
